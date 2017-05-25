@@ -1,11 +1,11 @@
-package com.cognizant.main;
+package com.spallya.main;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import com.cognizant.handler.ExceptionsHandler;
-import com.cognizant.handler.ScreenHandler;
-import com.cognizant.handler.ScreenHandlerImplementation;
+import com.spallya.handler.ExceptionsHandler;
+import com.spallya.handler.ScreenHandler;
+import com.spallya.handler.ScreenHandlerImplementation;
 
 public class CsvFileHandling {
 

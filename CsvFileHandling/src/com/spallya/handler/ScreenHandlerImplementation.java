@@ -1,9 +1,9 @@
-package com.cognizant.handler;
+package com.spallya.handler;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Scanner;
 
-import com.cognizant.model.Flat;
+import com.spallya.model.Flat;
 
 public class ScreenHandlerImplementation implements ScreenHandler {
 

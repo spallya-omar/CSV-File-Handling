@@ -1,4 +1,4 @@
-package com.cognizant.handler;
+package com.spallya.handler;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

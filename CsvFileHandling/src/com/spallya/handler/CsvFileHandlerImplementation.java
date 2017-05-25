@@ -1,4 +1,4 @@
-package com.cognizant.handler;
+package com.spallya.handler;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -7,8 +7,8 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.cognizant.comparator.MyComparator;
-import com.cognizant.model.Flat;
+import com.spallya.comparator.MyComparator;
+import com.spallya.model.Flat;
 
 public class CsvFileHandlerImplementation implements CsvFileHandler  {
 

@@ -1,8 +1,9 @@
-package com.cognizant.handler;
+package com.spallya.handler;
 
 import java.sql.*;
 import java.util.ArrayList;
-import com.cognizant.model.Flat;
+
+import com.spallya.model.Flat;
 
 
 public class JdbcHandler {

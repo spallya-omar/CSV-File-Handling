@@ -1,4 +1,4 @@
-package com.cognizant.model;
+package com.spallya.model;
 
 public class Flat {
 	private  String street;

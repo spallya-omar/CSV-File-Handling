@@ -1,4 +1,4 @@
-package com.cognizant.handler;
+package com.spallya.handler;
 
 public interface ScreenHandler {
 	public void loadFile(String fileName);

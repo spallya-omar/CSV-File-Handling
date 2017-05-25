@@ -1,8 +1,8 @@
-package com.cognizant.handler;
+package com.spallya.handler;
 import java.util.ArrayList;
 import java.util.Set;
 
-import com.cognizant.model.Flat;
+import com.spallya.model.Flat;
 
 public interface CsvFileHandler {
 	public ArrayList<Flat> readAndLoadAllContentInList(String fileName);

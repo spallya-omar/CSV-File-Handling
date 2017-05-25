@@ -1,7 +1,7 @@
-package com.cognizant.comparator;
+package com.spallya.comparator;
 import java.util.Comparator;
 
-import com.cognizant.model.Flat;
+import com.spallya.model.Flat;
 
 public class MyComparator implements Comparator<Flat>{
 	
